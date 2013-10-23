@@ -12,5 +12,5 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ```
 
-See also http://github.com/startup-class/setup to install prerequisite
+See also http://github.com/Butterwell/ubuntu-setup to install prerequisite
 programs. 
